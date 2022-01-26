@@ -1,2 +1,2 @@
-# cheklist-checklititem
+# checklist-checklistitem
 My first DRF project
